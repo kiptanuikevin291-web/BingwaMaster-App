@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BingwaMaster" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
